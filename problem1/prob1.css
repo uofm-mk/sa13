@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #a60d0d;
+    color: rgb(26, 29, 211);
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    width: 80%;
+    margin: 20px auto;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+    background-color: #333;
+    color: rgb(151, 9, 9);
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
